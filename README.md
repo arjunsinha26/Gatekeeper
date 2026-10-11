@@ -20,16 +20,6 @@
 
 ---
 
----
-
-### Verification, Welcome Cards & Automated Moderation
-
-**Secure your community. Welcome new members. Detect spam and manage your server with ease.**
-
-</div>
-
----
-
 ## ✨ Features
 
 ### 🔐 CAPTCHA verification
