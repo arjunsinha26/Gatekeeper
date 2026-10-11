@@ -26,18 +26,6 @@
 
 **Secure your community. Welcome new members. Detect spam and manage your server with ease.**
 
-<br>
-
-![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![discord.py](https://img.shields.io/badge/discord.py-2.x-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Pillow](https://img.shields.io/badge/Pillow-Image%20Processing-2EA44F?style=for-the-badge)
-![CAPTCHA](https://img.shields.io/badge/CAPTCHA-Verification-orange?style=for-the-badge)
-![Moderation](https://img.shields.io/badge/Anti--Spam-Enabled-red?style=for-the-badge)
-
-<br>
-
-[Features](#-features) · [Installation](#-requirements) · [Configuration](#-configure-the-bot-token) · [Commands](#-commands) · [Important Notes](#️-important-implementation-notes)
-
 </div>
 
 ---
